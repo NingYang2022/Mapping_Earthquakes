@@ -1,12 +1,11 @@
 
-//1. find the URL to earthQuake GeoJSON data file.
+//1. find the URL to  GeoJSON data file earthQuake, major earthquake and tectonic plate.
 //2. Open the index.html file, and in the <head> section 
 //   above the CSS link, add the following D3.js library 
 //   file script 
 //   <script src="https://d3js.org/d3.v5.min.js"></script> 
-//3. in CLI, cd directory that hold the index.html and run 
+//3. in CLI, cd directory that holds the index.html and run 
 //   "python -m http.server" command to start webserver
-//4. Need a config.js file to hold an API key to api.mapbox.com
 
 // check to see if the code is working
 console.log("working");
