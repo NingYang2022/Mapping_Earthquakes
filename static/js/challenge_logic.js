@@ -6,6 +6,7 @@
 //   <script src="https://d3js.org/d3.v5.min.js"></script> 
 //3. in CLI, cd directory that holds the index.html and run 
 //   "python -m http.server" command to start webserver
+//4. need a config.js file that is holding an API key to api.mapbox.com
 
 // check to see if the code is working
 console.log("working");
